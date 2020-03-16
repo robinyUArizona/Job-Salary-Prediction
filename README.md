@@ -2,8 +2,8 @@
 Provided job salary datasets. The goal of this project is to predict the future employee salaries based on the data of current employees slaries. Creating a robust model that can handle such situations is part of the challenge.
 
 # File descriptions
-**EDA-Job Salary Prediction.csv** - Explore job description datasets and also provides a brief modular explaoratory data analysis. <br/>
-**Job Salary Prediction.csv** - Files implement the machine learning algorithm, establish the baseline model, select the best model to predict the salary on the test data. <br/>
+**EDA-Job Salary Prediction.ipynb** - Explore job description datasets and also provides a brief modular explaoratory data analysis. <br/>
+**Job Salary Prediction.ipynb** - Files implement the machine learning algorithm, establish the baseline model, select the best model to predict the salary on the test data. <br/>
 **plot_job_features_.ipynb** - files include plot function to plot features. <br/>
 **readme.md** - This file <br/>
 
