@@ -1,4 +1,6 @@
 # Portfolio-Job-Salary-Predictions
+![](Salary_Pic.PNG)
+
 Provided job salary datasets. The goal of this project is to predict the future employee salaries based on the data of current employees slaries. Creating a robust model that can handle such situations is part of the challenge.
 
 # File descriptions
