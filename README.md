@@ -1,5 +1,5 @@
-# Portfolio-Job-Salary-Predictions
-<img src="Salary_Pic.PNG" style="width:1000px;height:100px" />
+# Job Salary Predictions
+<img src="Salary_Pic.PNG" width="1100" height="300"/>
 
 Provided job salary datasets. The goal of this project is to predict the future employee salaries based on the data of current employees slaries. Creating a robust model that can handle such situations is part of the challenge.
 
