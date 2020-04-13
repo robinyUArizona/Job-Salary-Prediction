@@ -32,7 +32,7 @@ Provided job salary datasets, the goal of this project is to predict the future 
 - **salary (target)** - Estimated Salary <br/>
 
 ### File descriptions
-1. **EDA-Job Salary Prediction.ipynb** - Explore job description datasets and also provides a brief modular explaoratory data analysis. <br/>
+1. **EDA-Job Salary Prediction.ipynb** - Explore job description datasets and also provides a brief modular exploratory data analysis tutorial for the data science project. <br/>
 2. **Job Salary Prediction.ipynb** - Implement the machine learning algorithm, establish the baseline model, select the best model to predict the salary on the test data. <br/>
 3. **plot_job_features_.ipynb** - file which helper function to visualize features or attributes. <br/>
 4. **readme.md** - This file <br/>
